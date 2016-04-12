@@ -11,6 +11,7 @@
 require "formula"
 require "pathname"
 require "set"
+require "cmd/tap"
 
 # ExecutablesDB represents a DB associating formulae to the binaries they
 # provide.
